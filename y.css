@@ -1,0 +1,58 @@
+#logo{
+    width: 100px;
+    height: 100px;
+
+}
+.navy{
+    margin-left: 250px;
+    font-size: 19px;
+    margin-top: 36px;
+}
+
+.x{
+    padding-left: 20px;
+}
+.pi{
+    margin-left: 10px;
+}
+
+.news{
+    text-align: center;
+}
+.newl{
+    width: 500px;
+    height: 500px;
+}
+.pmar{
+    margin-left: 20px;
+    
+}
+.pmar1{
+    margin-top: 100px;
+}
+.pmar2{
+    margin-top: 100px;
+    margin-right: 60px;
+}
+
+.fimg{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+.fimgs{
+    margin-left: 730px;
+}
+
+.newly{
+    width:250px;
+    height: 200px;
+}
+.media{
+    margin-top: 150px;
+    margin-left: 160px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
